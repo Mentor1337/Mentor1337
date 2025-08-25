@@ -1,7 +1,6 @@
-# 👋 Hey, I am TheMentor
 
 
-### 🧑‍💻 Software Engineer | 🕵️ Hobbyist Cybersecurity Researcher | 🎮 Gamer
+### Software Engineer | Hobbyist Cybersecurity Researcher | Gamer
 
 Welcome to my little corner of GitHub.  
 I’m a software engineer with a background in penetration testing, still keeping a hand in the cybersecurity world as a hobbyist researcher. These days I balance building production-grade systems with breaking things for fun (and learning a lot in the process).  
@@ -13,7 +12,7 @@ I’m a software engineer with a background in penetration testing, still keepin
 ## 🚨 Current Personal Focus – **WRAITHTECH Research Group**  
 I’m part of **WRAITHTECH Research Group**, where we’re blending engineering discipline with hacker creativity.  
 
-🔭 Our upcoming release:  
+ Our upcoming release:  
 **`Watchtower`** – a centrally managed platform designed to [REDACTED] controls.  
 
 🗓 **Public Release ETA: Q1 2026**  
@@ -33,7 +32,7 @@ I’m part of **WRAITHTECH Research Group**, where we’re blending engineering 
 ## 🎮 Beyond the Code  
 - Gamer at heart – always looking for the next immersive world to dive into.  
 - Hobby builder – if it’s hackable or scriptable, I’m probably messing with it.  
-- Coffee-fueled late nights are when most of my best (and worst) ideas are born.  
+- Amp-fueled late nights are when most of my best (and worst) ideas are born.  
 
 ---
 
