@@ -42,6 +42,6 @@ I’m part of **WRAITHTECH Research Group**, where we’re blending engineering 
 
 ---
 
-> “Build it, break it, fix it better.”  
+> “Build it, break it, ~~fix it better~~ exploit it.”  
 – TheMentor  
 
