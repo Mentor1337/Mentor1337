@@ -15,7 +15,7 @@ I’m part of **WRAITHTECH Research Group**, where we’re blending engineering 
  Our upcoming release:  
 **`Watchtower`** – a centrally managed platform designed to [REDACTED] controls.  
 
-🗓 **Public Release ETA: Q1 2026**  
+🗓 **Public Release ETA: Q3 2026**  
 📢 More information coming soon. Stay tuned.  
 
 ---
